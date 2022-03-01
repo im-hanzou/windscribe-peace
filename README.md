@@ -1,5 +1,6 @@
 # windscribe-peace
 ## Auto Create Windscribe Account !
+#### create windscribe account with 30 gb monthly data
 ### how to use :
 
  1. install requirements.txt first
